@@ -85,7 +85,7 @@ nav h2{
 .productive-users{
     background-color: #4E47FF1A;
     padding: 50px 80px;
-    margin-inline: 120px;
+    margin-inline: 80px;
     border-radius: 25px;
 }
 
@@ -101,6 +101,11 @@ nav h2{
     color: #4E47FF;
 }
 
+.details{
+    font-size: 20px;
+    font-weight: 400;
+}
+
 .text-primary {
     color: #4E47FF;
     
@@ -108,4 +113,8 @@ nav h2{
 
 .center {
     text-align: center;
+}
+
+.light-black{
+    color:#666869;
 }

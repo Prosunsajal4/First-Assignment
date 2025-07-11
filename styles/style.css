@@ -26,6 +26,12 @@ body{
     border: none;
 }
 
+.btn-primary:hover {
+    background-color: #c8ff00; 
+    transform: scale(1.15);
+    color: black; 
+}
+
 .center {
     align-items: center;
 }
@@ -194,8 +200,18 @@ a {
     padding: 50px 80px;
 }
 
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-inline: 80px;
+}
 .text-primary {
     color: #4E47FF;  
+}
+
+.feedback-content{
+    background-color: #FFFFFF;
 }
 
 .center {
